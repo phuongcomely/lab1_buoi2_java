@@ -4,7 +4,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class Main {
+public class lab {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Mời bạn nhập tên hàng nhập kho: ");
